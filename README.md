@@ -60,3 +60,7 @@ This can help financial institutions to automate and speed up the loan approval 
 | Decision Tree                | 80.64        |
 
 ## 🚀 The best model for accuracy score is BaggingClassifier: 91.49%
+
+## How to install Libraries
+
+pip install -r requirements.txt
